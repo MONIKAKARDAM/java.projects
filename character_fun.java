@@ -17,7 +17,7 @@ public class character_fun{
          char ch = sc.next().charAt(0);
          Display(ch);
          sc.close();
-     }
+        }
 }   
  
     
